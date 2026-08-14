@@ -39,6 +39,7 @@ dependencies:
   calendar_date_picker2:
     path: ../
 
+  material_ui: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
